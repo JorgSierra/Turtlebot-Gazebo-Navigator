@@ -48,7 +48,7 @@ Autonomous navigation is at the core of most robotics companies, however despite
 
 Nav2 is a very flexible and configurable system that sits at the core of our autonomy stack. It aims to provide autonomous navigation capabilities to mobile robots and comprises several modules (servers) with smaller tasks that can be combined together to achieve this goal or can be used independently to provide specific functionalities to the system (ex: localization, path planning, etc).
 
-This modular architecture makes it really easy to swap the algorithmic component of the different modules, allowing developers to choose the most suited approach for their needs or making it easier to program their own functionalities if the defaults don't fit their needs. Since you will have to make heavy use of nav2 is highly recommended that you read [its documentation](https://navigation.ros.org/concepts/index.html) before getting started
+This modular architecture makes it really easy to swap the algorithmic component of the different modules, allowing developers to choose the most suited approach for their needs or making it easier to program their own functionalities if the defaults don't fit their needs. Since you will have to make heavy use of nav2 is highly recommended that you read its [documentation](https://navigation.ros.org/concepts/index.html) before getting started
 
 You will probably use Nav2 in your everyday work at Kiwibot so consider this project as the beginning of your training.
 
